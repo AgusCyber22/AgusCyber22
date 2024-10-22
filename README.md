@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Project:</h2>
 
-  - [SQL for Security Operation](https://github.com/AgusCyber22/LABURL)
+  - [SQL for Security Operation](https://github.com/AgusCyber22/https://github.com/AgusCyber22/SQL)
 
 
 <h2> :page_facing_up: Certification</h2>
