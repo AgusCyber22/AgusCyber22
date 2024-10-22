@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Project:</h2>
 
-  - [Active Home Directory Lab](https://github.com/AgusCyber22/LABURL)
+  - [SQL for Security Operation](https://github.com/AgusCyber22/LABURL)
 
 
 <h2> :page_facing_up: Certification</h2>
