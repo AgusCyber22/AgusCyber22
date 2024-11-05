@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Project:</h2>
 
-  - [SQL for Security Operation](https://github.com/AgusCyber22/SQL)
+  - [SQL for Security Operation](https://github.com/AgusCyber22/SQL-1)
+  - [Python for Algorithm](https://github.com/AgusCyber22/Python-1)
 
 
 <h2> :page_facing_up: Certification</h2>
